@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5905f8f3ddbdaaa4f8115d1423059263, type: 3}
+  m_Name: 8
+  m_EditorClassIdentifier: 
+  _id: 8
+  _memo: "\u65C5\u884C\u306F\u5ACC\u3044"
+  _phraseBgmInfos: []
+  _phraseBackGroundInfos: []
+  _displayCharacterInfos: []
+  _characterNameInfos:
+  - characterId: 2
+    phraseIndexs: 00000000
+  _phraseVoiceInfos:
+  - voiceId: 1
+    phraseIndexs: 02000000
+  _phrase:
+  - "\u3042\u3089\u3001\u65C5\u884C\u306F\u5ACC\u3044\u3067\u3059\u304B\u3002"
+  - "\u4FD7\u306B\u3044\u3046\u30A4\u30F3\u30C9\u30A2\u3063\u3066\u3084\u3064\u3067\u3059\u306D\u3002"
+  - "\uFF08\u3068\u3044\u3046\u304B\u65C5\u4EBA\u3060\u3088\u306D\u2026\uFF1F\uFF09"
+  _choiceInfos: []
+  _avoidanceNextPhraseId: 9
+  _nextPhraseInfos: []
+  _endingId: 0
+  _eventId: 0

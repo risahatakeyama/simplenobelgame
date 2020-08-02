@@ -1,0 +1,170 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 3.333,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 8,
+		"TotalSegmentCount": 14,
+		"TotalPointCount": 46,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "Param_Head_Y",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.5,
+				0,
+				1,
+				-13,
+				1.5,
+				-13,
+				1,
+				2.111,
+				-13,
+				2.722,
+				0,
+				3.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Head_X",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.5,
+				0,
+				1,
+				-19,
+				1.5,
+				-19,
+				1,
+				2.111,
+				-19,
+				2.722,
+				0,
+				3.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Body_X",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.5,
+				0,
+				1,
+				5,
+				1.5,
+				5,
+				1,
+				2.111,
+				5,
+				2.722,
+				0,
+				3.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Body_Y",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.5,
+				0,
+				1,
+				5,
+				1.5,
+				5,
+				1,
+				2.111,
+				5,
+				2.722,
+				0,
+				3.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Arm_R",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.5,
+				0,
+				1,
+				2,
+				1.5,
+				2,
+				1,
+				2.111,
+				2,
+				2.722,
+				0,
+				3.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Arm_L",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.5,
+				0,
+				1,
+				2,
+				1.5,
+				2,
+				1,
+				2.111,
+				2,
+				2.722,
+				0,
+				3.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Arm_L_2",
+			"Segments": [
+				0,
+				0,
+				0,
+				3.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Arm_R_2",
+			"Segments": [
+				0,
+				0,
+				0,
+				3.333,
+				0
+			]
+		}
+	]
+}

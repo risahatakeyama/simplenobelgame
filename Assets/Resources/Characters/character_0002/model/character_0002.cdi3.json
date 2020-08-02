@@ -1,0 +1,56 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param_Head_Y",
+			"GroupId": "",
+			"Name": "Param_Head_Y"
+		},
+		{
+			"Id": "Param_Head_X",
+			"GroupId": "",
+			"Name": "Param_Head_X"
+		},
+		{
+			"Id": "Param_Body_X",
+			"GroupId": "",
+			"Name": "Param_Body_X"
+		},
+		{
+			"Id": "Param_Body_Y",
+			"GroupId": "",
+			"Name": "Param_Body_Y"
+		},
+		{
+			"Id": "Param_Arm_R",
+			"GroupId": "",
+			"Name": "Param_Arm_R"
+		},
+		{
+			"Id": "Param_Arm_L",
+			"GroupId": "",
+			"Name": "Param_Arm_L"
+		},
+		{
+			"Id": "Param_Arm_L_2",
+			"GroupId": "",
+			"Name": "Param_Arm_L_2"
+		},
+		{
+			"Id": "Param_Arm_R_2",
+			"GroupId": "",
+			"Name": "Param_Arm_R_2"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "ArtMesh_Skinning",
+			"Name": "レイヤー 4(スキニング)"
+		},
+		{
+			"Id": "ArtMesh2_Skinning",
+			"Name": "レイヤー 3(スキニング)"
+		}
+	]
+}

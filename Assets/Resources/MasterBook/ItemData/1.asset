@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 929905544a16cc04ca8c682a16c82566, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  _id: 1
+  _memo: "\u9418\u3000\u30D9\u30EB\u3000\u9234\u3000bell"
+  _description:
+  - "\u5C0F\u3055\u306A\u30D9\u30EB\u3060\u3002"
+  _actionDescription:
+  - "\u30D0\u30FC\u30EB\u3092\u4F7F\u3046\u3053\u3068\u3067\u30D9\u30EB\u3092\u7834\u58CA\u3067\u304D\u305D\u3046\u3060\u3002"
+  - "\u30D9\u30EB\u3092\u7834\u58CA\u3057\u307E\u3059\u304B\uFF1F"
+  _afterActionDescription:
+  - "\u30D9\u30EB\u3092\u7834\u58CA\u3057\u307E\u3057\u305F\u3002"
+  _usedDescription:
+  - "\u30D9\u30EB\u3060\u3002\u58CA\u308C\u3066\u3044\u308B\u3002"
+  _isInputItem: 0
+  _answer: 
+  _getItemBackGroundId: 0
+  _isOnce: 0
+  _conditionItemIds: 0200000000000000
+  _defaultItemSprite: {fileID: 21300000, guid: bcbb57681a9557444b5f749c2e8deb9d, type: 3}
+  _usedItemSprite: {fileID: 21300000, guid: f6e2b59670afecc4b9e6762256874774, type: 3}
+  _actionButtonString: "\u7834\u58CA\u3059\u308B"
+  _cancelButtonString: "\u3084\u3081\u3068\u304F"

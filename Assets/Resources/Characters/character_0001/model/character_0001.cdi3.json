@@ -1,0 +1,83 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param_Hair",
+			"GroupId": "",
+			"Name": "Param_Hair1"
+		},
+		{
+			"Id": "Param_Hair2",
+			"GroupId": "",
+			"Name": "Param_Hair2"
+		},
+		{
+			"Id": "Param_Back_Hair1",
+			"GroupId": "",
+			"Name": "Param_Back_Hair1"
+		},
+		{
+			"Id": "Param_Mouth",
+			"GroupId": "",
+			"Name": "Param_Mouth"
+		},
+		{
+			"Id": "Param_Eye_X",
+			"GroupId": "",
+			"Name": "Param_Eye_X"
+		},
+		{
+			"Id": "Param_Right_Arm",
+			"GroupId": "",
+			"Name": "Param_Right_Arm"
+		},
+		{
+			"Id": "Param_Left_Arm",
+			"GroupId": "",
+			"Name": "Param_Left_Arm"
+		},
+		{
+			"Id": "Param_Skart",
+			"GroupId": "",
+			"Name": "Param_Skart"
+		},
+		{
+			"Id": "Param_Left_Arm_Under",
+			"GroupId": "",
+			"Name": "Param_Left_Arm_Under"
+		},
+		{
+			"Id": "Param_Right_Arm_Under",
+			"GroupId": "",
+			"Name": "Param_Right_Arm_Under"
+		},
+		{
+			"Id": "Param_Back_Hair2",
+			"GroupId": "",
+			"Name": "Param_Back_Hair2"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "ArtMesh2_Skinning",
+			"Name": "前髪1(スキニング)"
+		},
+		{
+			"Id": "ArtMesh3_Skinning",
+			"Name": "前髪3(スキニング)"
+		},
+		{
+			"Id": "ArtMesh4_Skinning",
+			"Name": "前髪2(スキニング)"
+		},
+		{
+			"Id": "ArtMesh21_Skinning",
+			"Name": "横髪1(スキニング)"
+		},
+		{
+			"Id": "ArtMesh22_Skinning",
+			"Name": "横髪2(スキニング)"
+		}
+	]
+}

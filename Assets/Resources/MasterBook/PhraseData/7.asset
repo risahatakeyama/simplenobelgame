@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5905f8f3ddbdaaa4f8115d1423059263, type: 3}
+  m_Name: 7
+  m_EditorClassIdentifier: 
+  _id: 7
+  _memo: "\u65C5\u884C\u304C\u597D\u304D"
+  _phraseBgmInfos: []
+  _phraseBackGroundInfos: []
+  _displayCharacterInfos: []
+  _characterNameInfos:
+  - characterId: 2
+    phraseIndexs: 00000000
+  _phraseVoiceInfos: []
+  _phrase:
+  - "\u597D\u304D\u306A\u3093\u3067\u3059\u306D\u3002"
+  - "\u3067\u306F\u3067\u306F\u3001\u65C5\u884C\u306B\u884C\u304F\u306A\u3089\u3001\u5C71\u3068\u6D77\u3001\u3069\u3063\u3061\u6D3E\u3067\u3059\u304B\uFF1F"
+  _choiceInfos:
+  - selectionMessage: "\u5C71"
+    targetCharacterId: 6
+    updradeRating: 10
+  - selectionMessage: "\u6D77"
+    targetCharacterId: 3
+    updradeRating: 10
+  - selectionMessage: "\u3069\u3063\u3061\u3082\u9078\u3079\u306A\u3044"
+    targetCharacterId: 8
+    updradeRating: 0
+  _avoidanceNextPhraseId: 9
+  _nextPhraseInfos: []
+  _endingId: 0
+  _eventId: 0
